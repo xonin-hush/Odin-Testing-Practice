@@ -1,5 +1,4 @@
-function capitalize() {
-    let string = "geeksforgeeks";
-    console.log(string[0].toUpperCase() + string.slice(1));
+function capitalize(string) {
+    return string[0].toUpperCase() + string.slice(1)
   }
-  capitalize();
+  module.exports=capitalize
