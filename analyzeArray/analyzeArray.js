@@ -13,6 +13,6 @@ function analyzeArray(array) {
     this.max = maxValue;
     this.length1 = length;
   }
-  console.log(new object());
+  return new object
 }
-analyzeArray([1, 8, 3, 4, 2, 6]);
+module.exports=analyzeArray
